@@ -13,7 +13,7 @@
 
 Route::get('/', function() {
     //
-return 'Hola MundoX';
+return 'Hola MundoDev';
 
 });
 /*
