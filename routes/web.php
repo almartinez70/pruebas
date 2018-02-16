@@ -10,7 +10,7 @@
 |
 */
 Route::get('/', function() {
-return 'Hola MundoMerge';
+return 'Hola Mundo';
 });
 /*
 Route::get('/', function () {
